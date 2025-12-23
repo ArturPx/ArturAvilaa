@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas e Desenvolvimento`**
 
-Meu nome é **Artur de Avila**, tenho 21 anos e atualmente curso **Engenharia de Software** na Universidade Univille, região de Joinville, estando no 6º período.  
+Meu nome é **Artur de Avila**, tenho 21 anos e atualmente curso **Engenharia de Software** na Universidade Univille, região de Joinville, estando no 7º período.  
 Sou apaixonado por tecnologia e pelo impacto que ela pode causar na vida das pessoas. Gosto de desenvolver soluções que otimizem processos, aumentem a eficiência e tragam inovação, com foco especial em **automação.**.
 
 Atualmente, tenho experiência prática em projetos que envolvem desde **front-end** e **back-end** até **RPA (Robotic Process Automation)**, trabalhando com tecnologias como **Java, Angular, Selenium, VBA, Python, C#, TypeScript, JavaScript, CSS e HTML**.
