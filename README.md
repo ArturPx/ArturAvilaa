@@ -3,17 +3,16 @@
 </h1>
 
 <h3 align="center">
-  Engenheiro de IA · Desenvolvedor Full Stack · Especialista em Automação
+  Engenheiro de IA
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/artur-de-avila" target="_blank">
+  <a href="https://www.linkedin.com/in/artur-avila-1b6994214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:artur@email.com">
+  <a href="mailto:avilaartur35@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Joinville-SC%2C%20Brasil-green?style=for-the-badge" />
 </p>
 
 ---
@@ -68,15 +67,3 @@ Minha atuação combina desenvolvimento de software com **Engenharia de IA** —
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
----
-
-## 📌 Destaques
-
-- 🤖 **Agentes de IA** — desenvolvimento de agentes especializados para atendimento ao cliente e automação de processos
-- ⚙️ **Automação & RPA** — workflows inteligentes com n8n, Selenium e integração entre sistemas
-- 🔗 **Integrações via API** — REST APIs, webhooks e conexão com plataformas como WhatsApp, CRMs e ERPs
-- 🖥️ **Desenvolvimento Full Stack** — sistemas back-end robustos e interfaces front-end com Angular
-- 🎓 **Engenharia de Software** — Univille, Joinville-SC (7º período)
-
----
