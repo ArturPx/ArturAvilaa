@@ -1,6 +1,6 @@
 # Artur de Avila
 
-**`Analista de Sistemas e Desenvolvimento`**
+**`Enghenheiro de IA`**
 
 Meu nome é **Artur de Avila**, tenho 21 anos e atualmente curso **Engenharia de Software** na Universidade Univille, região de Joinville, estando no 7º período.  
 Sou apaixonado por tecnologia e pelo impacto que ela pode causar na vida das pessoas. Gosto de desenvolver soluções que otimizem processos, aumentem a eficiência e tragam inovação, com foco especial em **automação.**.
